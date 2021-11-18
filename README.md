@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paulpichon
 - 👀 Estoy interesado en seguir aprendiendo programación 
 - 🌱 Normalmente aprendo Javascript, php y me gustaria aprender Python
-- 💞️ Me encuentro realizando un proyecto personal basado en tecnologias PHP, JAVASCRIPT y MYSQL, entre otras
+- 💞️ Me encuentro realizando un proyecto basado en tecnologias PHP, JAVASCRIPT y MYSQL, entre otras
 - 📫 How to reach me ...
 
 <!---
