@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulpichon
 - 👀 Buscando nuevos horizontes... actualmente estoy abierto a nuevas propuestas!
-- 🌱 Manejo PHP y JavaScript, ahorita dandole con todo a REACT.
+- 🌱 Manejo JavaScript, NODE y PHP.
 - 💞️ Me encuentro realizando un proyecto basado en tecnologías PHP, JAVASCRIPT y MYSQL, entre otras.
 - 📫Sitio Web: https://paulpichon.github.io/
 - 📫 Twitter: @PAUL_BARCA
