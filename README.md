@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulpichon
 - 👀 Buscando nuevos horizontes... actualmente estoy abierto a nuevas propuestas!
-- 🌱 Manejo JavaScript, NODE y PHP.
+- 🌱 Manejo JavaScript, NODE, MongoDB (Haciendo un certificado actualmente) y PHP.
 - 💞️ Me encuentro realizando un proyecto basado en tecnologías PHP, JAVASCRIPT y MYSQL, entre otras.
 - 📫Sitio Web: https://paulpichon.github.io/
 - 📫 Twitter: @PAUL_BARCA
